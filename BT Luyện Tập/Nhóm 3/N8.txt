@@ -1,0 +1,10 @@
+1. Trình bày giải thuật:
+
+- Lần lượt xét các cạnh và kiểm tra xem có 2 điểm bất kì nào nằm trên 2 mặt phẳng đối nhau có bờ là cạnh đang xét:
+  + Nếu có thì loại cạnh đó.
+  + Nếu không có thì tiếp tục xét cạnh khác.
+- Sau khi duyệt hết kết luận đa giác với các cạnh thõa mãn điều kiện trên là bao lồi của tập n đỉnh.
+
+2. Độ phức tạp
+O(kn)
+
